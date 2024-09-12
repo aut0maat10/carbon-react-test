@@ -4,6 +4,7 @@
 
 - [@carbon/react](https://react.carbondesignsystem.com/?path=/docs/getting-started-welcome--welcome)
 
+<img width="1037" alt="Screenshot 2024-09-12 at 12 39 52 PM" src="https://github.com/user-attachments/assets/74615fc1-b054-4871-82dc-309e8eab0845">
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
